@@ -1,0 +1,48 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {1.1}Team Organization and Roles}{3}
+\contentsline {section}{\numberline {1.2}Mission Objectives}{4}
+\contentsline {subsection}{\numberline {1.2.1}Secondary Mission}{4}
+\contentsline {subsection}{\numberline {1.2.2}Launch Objectives}{4}
+\contentsline {subsection}{\numberline {1.2.3}Expected Results}{5}
+\contentsline {subsection}{\numberline {1.2.4}Experimental and Data Logging Aims}{5}
+\contentsline {chapter}{\numberline {2}CanSat Description}{6}
+\contentsline {section}{\numberline {2.1}Mission Overview}{6}
+\contentsline {section}{\numberline {2.2}Mechanical and Structural Design}{7}
+\contentsline {subsection}{\numberline {2.2.1}Overview}{7}
+\contentsline {subsection}{\numberline {2.2.2}Internal Frame}{7}
+\contentsline {subsubsection}{Prototype Design}{7}
+\contentsline {subsubsection}{Final Design}{9}
+\contentsline {subsection}{\numberline {2.2.3}Outer Shell}{10}
+\contentsline {subsubsection}{Prototype Design}{10}
+\contentsline {subsubsection}{Final Design}{11}
+\contentsline {subsection}{\numberline {2.2.4}Electronics}{11}
+\contentsline {subsubsection}{Prototype Design}{11}
+\contentsline {subsubsection}{Final Design}{12}
+\contentsline {section}{\numberline {2.3}Electrical Design}{19}
+\contentsline {subsection}{\numberline {2.3.1}Sensor and Device Wiring}{19}
+\contentsline {subsubsection}{Prototype Design}{19}
+\contentsline {subsubsection}{Final Design}{19}
+\contentsline {subsection}{\numberline {2.3.2}Radio Specifications}{20}
+\contentsline {subsubsection}{Prototype Design}{20}
+\contentsline {subsubsection}{Final Design}{21}
+\contentsline {subsection}{\numberline {2.3.3}Battery Specifications}{21}
+\contentsline {section}{\numberline {2.4}Software Design}{23}
+\contentsline {subsection}{\numberline {2.4.1}On-CanSat}{23}
+\contentsline {subsubsection}{Linux Single-Board-Computer}{23}
+\contentsline {subsubsection}{Arduino}{25}
+\contentsline {subsection}{\numberline {2.4.2}Base Station}{25}
+\contentsline {section}{\numberline {2.5}Recovery System}{27}
+\contentsline {section}{\numberline {2.6}Ground Support Equipment}{28}
+\contentsline {chapter}{\numberline {3}Project Planning}{29}
+\contentsline {section}{\numberline {3.1}Design Schedule}{29}
+\contentsline {section}{\numberline {3.2}Resource Estimation}{30}
+\contentsline {section}{\numberline {3.3}External Support}{31}
+\contentsline {section}{\numberline {3.4}Test Plan}{31}
+\contentsline {subsection}{\numberline {3.4.1}Radio Testing}{31}
+\contentsline {subsection}{\numberline {3.4.2}Outer Shell Testing}{31}
+\contentsline {subsection}{\numberline {3.4.3}Parachute Testing}{31}
+\contentsline {subsection}{\numberline {3.4.4}Primary Mission Testing}{31}
+\contentsline {section}{\numberline {3.5}Outreach}{32}
+\contentsline {subsection}{\numberline {3.5.1}Online Presence}{32}
+\contentsline {subsection}{\numberline {3.5.2}In-Person Outreach}{33}
+\contentsline {chapter}{\numberline {4}CanSat Requirement Specifications}{35}

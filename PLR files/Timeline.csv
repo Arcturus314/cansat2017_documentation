@@ -1,0 +1,49 @@
+Task,Deadline
+1 Mechanics, 
+1.1 Create prototype fiberglass shell,10/16/2016
+1.2 Run durability tests on fiberglass shell,10/20/2016
+1.3 Create final fiberglass shell,5/15/2017
+1.4 Machine final fiberglass shell,5/18/2017
+"1.5 Create CAD models of sensors, development boards, and radios",5/1/2017
+1.6 Brainstorm internal CanSat layout,3/1/2017
+1.7 Create CAD model of internal CanSat layout,4/1/2017
+1.8 Create CAD model of internal frame and sliders,4/1/2017
+1.9 Brainstorm manufacturing options for internal frame,4/5/2017
+1.10 Manufacture internal supports / frame from CAD,5/1/2017
+1.11 Assemble mechanical portion of CanSat,6/1/2017
+2 Electronics,
+2.1 Decide on final capability list,10/1/2016
+"2.2 Select sensors, MCU, and radio to fulfill final capability list",11/1/2016
+2.3 Select required battery size and technology to support sensors and MCU,11/6/2016
+"2.4 Order sensors, MCU, radio, and battery",11/10/2016
+2.5 Test system on a breadboard,12/1/2016
+2.6 Design PCB layouts for internal electronics,5/1/2016
+2.7 Order PCBs,5/3/2016
+2.8 Assemble electronics portion of CanSat,6/1/2016
+2.9 Conduct radio tests with MCU and PC,6/10/2016
+2.10 Test radio range between MCU and PC,6/10/2016
+3 Software,
+3.1 Create basic “hello world” program for MCU,12/1/2016
+3.2 Create basic sensor tests for MCU,12/15/2016
+3.3 Create graphing and IO system for PC,2/1/2017
+3.4 Implement two way communication capability between PC and CanSat,3/1/2017
+3.5 Create unified data logging and and telemetry system and API for CanSat,5/1/2017
+3.6 Create final PC program incorporating all tested features,6/1/2017
+4 Parachute,
+4.1 Brainstorm and prototype initial parachute designs,11/1/2016
+4.2 Test prototype parachute designs,12/1/2016
+4.3 Create and test final parachute,1/1/2016
+Advertisement and Sponsorship,
+5.1 Discuss sponsorship options with school,10/1/2016
+5.2 Discuss sponsorship options with interested companies,12/1/2016
+5.3 Acquire 2000 GBP total in funding,3/1/2016
+5.4 Create advertising materials for school Open Day,11/23/2016
+5.5 Create presentation for school assembly,3/18/2017
+5.6 Decide on activities for P5 workshop,4/9/2017
+5.7 Collect materials and design experiment for P5 workshop,4/18/2017
+5.8 Participate in Edinburgh Maker Faire,4/16/2017
+5.9 Create materials for Edinburgh Maker Faire,4/12/2017
+5.10 Set up social media accounts,10/1/2016
+5.11 Create temporary website,10/1/2016
+5.12 Create permanent website,1/1/2016
+5.13 Migrate materials to permanent website,1/5/2016

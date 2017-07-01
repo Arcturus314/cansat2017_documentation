@@ -1,0 +1,627 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.28)  23 JUN 2017 17:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./document.tex
+(./document.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(c:/texlive/2016/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2016/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count88
+\LTcapwidth=\dimen103
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count89
+\LT@rows=\count90
+\c@LT@tables=\count91
+\c@LT@chunks=\count92
+\LT@p@ftn=\toks14
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(c:/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(c:/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(c:/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+\c@ContinuedFloat=\count94
+Package caption Info: longtable package is loaded.
+
+(c:/texlive/2016/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+))
+\c@subfigure=\count95
+\c@subtable=\count96
+)
+(c:/texlive/2016/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen113
+\WF@size=\dimen114
+\c@WF@wrappedlines=\count97
+\WF@box=\box30
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
+
+(c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count98
+\rotFPtop=\skip47
+\rotFPbot=\skip48
+\rot@float@box=\box31
+\rot@mess@toks=\toks17
+)
+(c:/texlive/2016/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(c:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks18
+) (./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+(c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen123
+\scratchbox=\box32
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen124
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks20
+) (c:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+[1
+
+{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./document.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `document.toc'.
+
+ [1
+
+] (./document.lof)
+\tf@lof=\write4
+\openout4 = `document.lof'.
+
+ [2
+
+]
+Chapter 1.
+[3
+
+] [4] [5]
+Chapter 2.
+<Block_Diagram.png, id=26, 1330.9725pt x 660.4675pt>
+File: Block_Diagram.png Graphic file (type png)
+ <use Block_Diagram.png>
+Package pdftex.def Info: Block_Diagram.png used on input line 111.
+(pdftex.def)             Requested size: 532.37958pt x 264.18231pt.
+
+Overfull \hbox (62.62456pt too wide) in paragraph at lines 111--112
+[] []|  
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6
+
+] <Old_CanSat_render.jpg, id=32, 496.10344pt x 812.28468pt>
+File: Old_CanSat_render.jpg Graphic file (type jpg)
+
+<use Old_CanSat_render.jpg>
+Package pdftex.def Info: Old_CanSat_render.jpg used on input line 130.
+(pdftex.def)             Requested size: 187.90271pt x 307.65504pt.
+ <old_cansat.jpg, id=33, 1702.36pt x 2545.51pt>
+File: old_cansat.jpg Graphic file (type jpg)
+
+<use old_cansat.jpg>
+Package pdftex.def Info: old_cansat.jpg used on input line 134.
+(pdftex.def)             Requested size: 187.90271pt x 280.93916pt.
+ <CanSat_render.jpg, id=34, 539.76656pt x 812.28468pt>
+File: CanSat_render.jpg Graphic file (type jpg)
+
+<use CanSat_render.jpg>
+Package pdftex.def Info: CanSat_render.jpg used on input line 144.
+(pdftex.def)             Requested size: 187.90271pt x 282.76698pt.
+ <new_cansat.jpg, id=35, 1256.695pt x 2366.8425pt>
+File: new_cansat.jpg Graphic file (type jpg)
+
+<use new_cansat.jpg>
+Package pdftex.def Info: new_cansat.jpg used on input line 148.
+(pdftex.def)             Requested size: 140.92793pt x 265.40959pt.
+ <old_int_frame.jpg, id=36, 527.72156pt x 801.74532pt>
+File: old_int_frame.jpg Graphic file (type jpg)
+
+<use old_int_frame.jpg>
+Package pdftex.def Info: old_int_frame.jpg used on input line 169.
+(pdftex.def)             Requested size: 211.08488pt x 320.69244pt.
+ [7 <./Block_Diagram.png>] [8 <./Old_CanSat_render.jpg> <./old_cansat.jpg> <./C
+anSat_render.jpg> <./new_cansat.jpg>]
+<old_frame.jpg, id=47, 2104.86375pt x 1514.65875pt>
+File: old_frame.jpg Graphic file (type jpg)
+ <use old_frame.jpg>
+Package pdftex.def Info: old_frame.jpg used on input line 182.
+(pdftex.def)             Requested size: 315.71594pt x 227.18901pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<cansat_internal_frame_render.jpg, id=48, 458.46281pt x 810.77907pt>
+File: cansat_internal_frame_render.jpg Graphic file (type jpg)
+
+<use cansat_internal_frame_render.jpg>
+Package pdftex.def Info: cansat_internal_frame_render.jpg used on input line 19
+9.
+(pdftex.def)             Requested size: 183.38187pt x 324.30588pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Top_frame_render.jpg, id=49, 667.74469pt x 810.77907pt>
+File: Top_frame_render.jpg Graphic file (type jpg)
+
+<use Top_frame_render.jpg>
+Package pdftex.def Info: Top_frame_render.jpg used on input line 215.
+(pdftex.def)             Requested size: 267.09314pt x 324.30588pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Bottom_frame_render.jpg, id=50, 672.26157pt x 810.77907pt>
+File: Bottom_frame_render.jpg Graphic file (type jpg)
+
+<use Bottom_frame_render.jpg>
+Package pdftex.def Info: Bottom_frame_render.jpg used on input line 231.
+(pdftex.def)             Requested size: 268.89986pt x 324.30588pt.
+ [9 <./old_int_frame.jpg>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pla_frame.jpg, id=54, 1362.08875pt x 1767.60374pt>
+File: pla_frame.jpg Graphic file (type jpg)
+ <use pla_frame.jpg>
+Package pdftex.def Info: pla_frame.jpg used on input line 239.
+(pdftex.def)             Requested size: 204.30449pt x 265.12912pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<steel_frame.jpg, id=55, 1815.78375pt x 2153.04375pt>
+File: steel_frame.jpg Graphic file (type jpg)
+ <use steel_frame.jpg>
+Package pdftex.def Info: steel_frame.jpg used on input line 248.
+(pdftex.def)             Requested size: 272.3558pt x 322.94263pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<nylon_frame.jpg, id=56, 1105.12875pt x 1456.44125pt>
+File: nylon_frame.jpg Graphic file (type jpg)
+ <use nylon_frame.jpg>
+Package pdftex.def Info: nylon_frame.jpg used on input line 258.
+(pdftex.def)             Requested size: 165.76216pt x 218.45676pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<cansat-shell.jpg, id=57, 2427.0675pt x 2931.95375pt>
+File: cansat-shell.jpg Graphic file (type jpg)
+ <use cansat-shell.jpg>
+Package pdftex.def Info: cansat-shell.jpg used on input line 271.
+(pdftex.def)             Requested size: 242.72096pt x 293.21255pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./old_frame.jpg>] <rawshell.jpg, id=61, 1667.22874pt x 2028.57875pt>
+File: rawshell.jpg Graphic file (type jpg)
+
+<use rawshell.jpg>
+Package pdftex.def Info: rawshell.jpg used on input line 285.
+(pdftex.def)             Requested size: 187.90271pt x 228.62314pt.
+ <Mold_render.jpg, id=62, 565.36218pt x 812.28468pt>
+File: Mold_render.jpg Graphic file (type jpg)
+
+<use Mold_render.jpg>
+Package pdftex.def Info: Mold_render.jpg used on input line 289.
+(pdftex.def)             Requested size: 164.41353pt x 236.21342pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ <bareframe.jpg, id=63, 1920.17375pt x 2875.74374pt>
+File: bareframe.jpg Graphic file (type jpg)
+
+<use bareframe.jpg>
+Package pdftex.def Info: bareframe.jpg used on input line 301.
+(pdftex.def)             Requested size: 164.41353pt x 246.21213pt.
+ <Outer_shell_render.jpg, id=64, 613.54219pt x 812.28468pt>
+File: Outer_shell_render.jpg Graphic file (type jpg)
+
+<use Outer_shell_render.jpg>
+Package pdftex.def Info: Outer_shell_render.jpg used on input line 305.
+(pdftex.def)             Requested size: 187.90271pt x 248.76901pt.
+
+<old_cansat_side.jpg, id=65, 681.29532pt x 1018.55531pt>
+File: old_cansat_side.jpg Graphic file (type jpg)
+
+<use old_cansat_side.jpg>
+Package pdftex.def Info: old_cansat_side.jpg used on input line 316.
+(pdftex.def)             Requested size: 272.51329pt x 407.4149pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<annotated_cansat.png, id=66, 1003.49907pt x 877.02657pt>
+File: annotated_cansat.png Graphic file (type png)
+
+<use annotated_cansat.png>
+Package pdftex.def Info: annotated_cansat.png used on input line 324.
+(pdftex.def)             Requested size: 200.69626pt x 175.4022pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <./cansat_internal_frame_render.jpg>]
+<electronics_mount_render.jpg, id=70, 706.89093pt x 812.28468pt>
+File: electronics_mount_render.jpg Graphic file (type jpg)
+
+<use electronics_mount_render.jpg>
+Package pdftex.def Info: electronics_mount_render.jpg used on input line 333.
+(pdftex.def)             Requested size: 353.4446pt x 406.14134pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12 <./Top_frame_render.jpg>] [13 <./Bottom_frame_render.jpg> <./pla_frame.jpg>
+] [14 <./steel_frame.jpg> <./nylon_frame.jpg>] [15 <./cansat-shell.jpg> <./raws
+hell.jpg> <./Mold_render.jpg>] [16 <./bareframe.jpg> <./Outer_shell_render.jpg>
+] [17 <./old_cansat_side.jpg> <./annotated_cansat.png>] [18 <./electronics_moun
+t_render.jpg>] <protoboard.jpg, id=95, 1781.65625pt x 2553.54pt>
+File: protoboard.jpg Graphic file (type jpg)
+
+<use protoboard.jpg>
+Package pdftex.def Info: protoboard.jpg used on input line 352.
+(pdftex.def)             Requested size: 178.17606pt x 255.36896pt.
+ [19
+
+ <./protoboard.jpg>]
+<pcbs.jpg, id=99, 4047.12pt x 3035.34pt>
+File: pcbs.jpg Graphic file (type jpg)
+ <use pcbs.jpg>
+Package pdftex.def Info: pcbs.jpg used on input line 365.
+(pdftex.def)             Requested size: 202.36786pt x 151.7759pt.
+
+<CanSat-detail.png, id=100, 636.87938pt x 797.98125pt>
+File: CanSat-detail.png Graphic file (type png)
+ <use CanSat-detail.png>
+Package pdftex.def Info: CanSat-detail.png used on input line 375.
+(pdftex.def)             Requested size: 445.81253pt x 558.58307pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20 <./pcbs.jpg>] [21] [22 <./CanSat-detail.png>]
+<CanSat-software-diagram.png, id=112, 980.66376pt x 366.36874pt>
+File: CanSat-software-diagram.png Graphic file (type png)
+
+<use CanSat-software-diagram.png>
+Package pdftex.def Info: CanSat-software-diagram.png used on input line 431.
+(pdftex.def)             Requested size: 686.45995pt x 256.45636pt.
+
+Overfull \hbox (36.02994pt too wide) in paragraph at lines 431--432
+ [][] 
+ []
+
+[23
+
+] [24 <./CanSat-software-diagram.png>]
+<base_station.png, id=122, 1177.39874pt x 701.62125pt>
+File: base_station.png Graphic file (type png)
+ <use base_station.png>
+Package pdftex.def Info: base_station.png used on input line 470.
+(pdftex.def)             Requested size: 647.57132pt x 385.89287pt.
+
+<Base-Station-program-flow.png, id=123, 282.05376pt x 509.905pt>
+File: Base-Station-program-flow.png Graphic file (type png)
+
+<use Base-Station-program-flow.png>
+Package pdftex.def Info: Base-Station-program-flow.png used on input line 476.
+(pdftex.def)             Requested size: 197.43626pt x 356.93106pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25] [26 <./base_station.png>] <pmount.jpg, id=131, 4047.12pt x 3035.34pt>
+File: pmount.jpg Graphic file (type jpg)
+
+<use pmount.jpg>
+Package pdftex.def Info: pmount.jpg used on input line 489.
+(pdftex.def)             Requested size: 211.3883pt x 158.53795pt.
+ <Parachute_mounts.jpg, id=132, 908.64468pt x 812.28468pt>
+File: Parachute_mounts.jpg Graphic file (type jpg)
+
+<use Parachute_mounts.jpg>
+Package pdftex.def Info: Parachute_mounts.jpg used on input line 493.
+(pdftex.def)             Requested size: 187.90271pt x 167.96959pt.
+ [27 <./Base-Station-program-flow.png>]
+<bsradio.jpeg, id=137, 2055.68pt x 1156.32pt>
+File: bsradio.jpeg Graphic file (type jpg)
+ <use bsradio.jpeg>
+Package pdftex.def Info: bsradio.jpeg used on input line 503.
+(pdftex.def)             Requested size: 411.12872pt x 231.2599pt.
+ [28 <./pmount.jpg> <./Parachute_mounts.jpg> <./bsradio.jpeg>]
+Chapter 3.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+[29
+
+] [30] [31] <website.png, id=151, 313.17pt x 601.24625pt>
+File: website.png Graphic file (type png)
+ <use website.png>
+Package pdftex.def Info: website.png used on input line 643.
+(pdftex.def)             Requested size: 140.92793pt x 270.56747pt.
+
+<brochure.png, id=152, 494.84875pt x 703.62875pt>
+File: brochure.png Graphic file (type png)
+ <use brochure.png>
+Package pdftex.def Info: brochure.png used on input line 647.
+(pdftex.def)             Requested size: 187.90271pt x 267.1777pt.
+ [32 <./website.png> <./brochure.png>] <ed1.jpg, id=158, 2055.68pt x 1156.32pt>
+File: ed1.jpg Graphic file (type jpg)
+
+<use ed1.jpg>
+Package pdftex.def Info: ed1.jpg used on input line 665.
+(pdftex.def)             Requested size: 187.90271pt x 105.68755pt.
+ <ed2.jpg, id=159, 2055.68pt x 1156.32pt>
+File: ed2.jpg Graphic file (type jpg)
+ <use ed2.jpg>
+Package pdftex.def Info: ed2.jpg used on input line 669.
+(pdftex.def)             Requested size: 187.90271pt x 105.68755pt.
+
+<mfaire.jpg, id=160, 4047.12pt x 3035.34pt>
+File: mfaire.jpg Graphic file (type jpg)
+ <use mfaire.jpg>
+Package pdftex.def Info: mfaire.jpg used on input line 678.
+(pdftex.def)             Requested size: 404.73572pt x 303.55179pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33 <./ed1.jpg> <./ed2.jpg>] [34 <./mfaire.jpg>]
+Chapter 4.
+[35
+
+] (./document.aux) ) 
+Here is how much of TeX's memory you used:
+ 3637 strings out of 493013
+ 56709 string characters out of 6136993
+ 129814 words of memory out of 5000000
+ 7107 multiletter control sequences out of 15000+600000
+ 9107 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,10n,40p,982b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2016/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+
+Output written on document.pdf (36 pages, 17233666 bytes).
+PDF statistics:
+ 204 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+
