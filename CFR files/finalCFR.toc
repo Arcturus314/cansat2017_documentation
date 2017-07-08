@@ -1,0 +1,69 @@
+\contentsline {chapter}{\numberline {1}CanSat and Base Station Design}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Summary of Changes}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Mission Overview}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Primary Mission}{1}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Secondary Mission}{2}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}CanSat and Base Station Architecture}{2}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Prototype CanSat}{2}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Overview}{2}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Mechanical Design}{3}{subsection.1.3.2}
+\contentsline {subsubsection}{Internal Frame}{3}{section*.5}
+\contentsline {subsubsection}{Outer Shell}{4}{section*.8}
+\contentsline {subsubsection}{Electronics Mounting}{5}{section*.10}
+\contentsline {subsection}{\numberline {1.3.3}Electrical Design}{5}{subsection.1.3.3}
+\contentsline {subsubsection}{Sensor and Device Wiring}{5}{section*.13}
+\contentsline {subsubsection}{Radio Specifications}{6}{section*.15}
+\contentsline {subsubsection}{Battery Specifications and Estimated Runtime}{7}{section*.16}
+\contentsline {subsection}{\numberline {1.3.4}Software Design}{8}{subsection.1.3.4}
+\contentsline {subsubsection}{On-CanSat Software}{8}{section*.17}
+\contentsline {subsubsection}{Base Station Software}{9}{section*.18}
+\contentsline {subsection}{\numberline {1.3.5}Budget}{9}{subsection.1.3.5}
+\contentsline {section}{\numberline {1.4}Final CanSat}{11}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Overview}{11}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Mechanical Design}{11}{subsection.1.4.2}
+\contentsline {subsubsection}{Internal Frame}{11}{section*.21}
+\contentsline {subsubsection}{Outer Shell}{12}{section*.28}
+\contentsline {subsubsection}{Electronics Mounting}{12}{section*.31}
+\contentsline {subsection}{\numberline {1.4.3}Electrical Design}{13}{subsection.1.4.3}
+\contentsline {subsubsection}{Sensor and Device Wiring}{13}{section*.33}
+\contentsline {subsubsection}{Radio Specifications}{14}{section*.36}
+\contentsline {subsubsection}{Battery Specifications and Estimated Runtime}{14}{section*.37}
+\contentsline {subsection}{\numberline {1.4.4}Software Design}{14}{subsection.1.4.4}
+\contentsline {subsubsection}{On-CanSat}{14}{section*.38}
+\contentsline {subsubsection}{Linux Single-Board-Computer}{15}{section*.39}
+\contentsline {subsubsection}{Arduino}{17}{section*.41}
+\contentsline {subsubsection}{Base Station}{17}{section*.42}
+\contentsline {subsection}{\numberline {1.4.5}Budget}{18}{subsection.1.4.5}
+\contentsline {chapter}{\numberline {2}Launch Campaigns}{26}{chapter.2}
+\contentsline {section}{\numberline {2.1}UK Launch Campaign: CanSat Mission}{26}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Launch Setup}{26}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Helikite Installation}{26}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}CanSat Descent}{26}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Radio Performance}{26}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Module Recovery}{26}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Data Recovery}{27}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}UK Launch Campaign: Data Analysis}{29}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Primary Mission: Temperature and Pressure}{29}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Secondary Mission: CanSat Motion}{30}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Secondary Mission: Heat Map}{31}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}EU Launch Campaign: CanSat Mission}{34}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Launch Setup}{34}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Rocket Launch and Descent}{34}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Radio Performance}{34}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Module Recovery}{34}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Data Recovery}{35}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}EU Launch Campaign: Data Analysis}{39}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Primary Mission}{39}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Secondary Mission}{40}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Module Status}{41}{subsection.2.4.3}
+\contentsline {chapter}{\numberline {3}Module Improvement}{42}{chapter.3}
+\contentsline {section}{\numberline {3.1}Mechanical Design}{42}{section.3.1}
+\contentsline {section}{\numberline {3.2}Electrical Design}{42}{section.3.2}
+\contentsline {section}{\numberline {3.3}Software Design}{43}{section.3.3}
+\contentsline {section}{\numberline {3.4}Base Station}{43}{section.3.4}
+\contentsline {chapter}{\numberline {4}Outreach}{44}{chapter.4}
+\contentsline {section}{\numberline {4.1}Online Presence}{44}{section.4.1}
+\contentsline {section}{\numberline {4.2}In-Person Outreach}{45}{section.4.2}
+\contentsline {chapter}{\numberline {5}Team Information}{47}{chapter.5}
+\contentsline {section}{\numberline {5.1}Team Management}{47}{section.5.1}
+\contentsline {section}{\numberline {5.2}Team Organization and Roles}{47}{section.5.2}

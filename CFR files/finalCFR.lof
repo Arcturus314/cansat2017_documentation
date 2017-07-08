@@ -1,0 +1,46 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces CanSat block diagram\relax }}{2}{figure.caption.3}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Prototype CanSat Render\relax }}{3}{figure.caption.4}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Prototype CanSat internal frame\relax }}{4}{figure.caption.6}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Prototype CanSat internal frame development\relax }}{5}{figure.caption.7}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces The prototype CanSat installed in the outer shell\relax }}{6}{figure.caption.9}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Electronics mount on the prototype CanSat\relax }}{7}{figure.caption.11}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces An annotated view of the prototype CanSat\relax }}{8}{figure.caption.12}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces The prototype CanSat electronics board\relax }}{9}{figure.caption.14}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces The UK Competition CanSat GUI without a GPS lock\relax }}{11}{figure.caption.19}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Final CanSat design\relax }}{12}{figure.caption.20}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Final CanSat internal frame render\relax }}{13}{figure.caption.22}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Final CanSat top frame render\relax }}{14}{figure.caption.23}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Final CanSat bottom frame render\relax }}{15}{figure.caption.24}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces A 3D printed PLA CanSat bottom frame\relax }}{16}{figure.caption.25}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces A 3D printed steel CanSat bottom frame\relax }}{17}{figure.caption.26}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces A 3D printed nylon CanSat bottom frame\relax }}{18}{figure.caption.27}
+\contentsline {figure}{\numberline {1.17}{\ignorespaces A raw outer shell with a render of its mold\relax }}{19}{figure.caption.29}
+\contentsline {figure}{\numberline {1.18}{\ignorespaces The CanSat slider mechanism\relax }}{19}{figure.caption.30}
+\contentsline {figure}{\numberline {1.19}{\ignorespaces A render illustrating electronics mounting in the final CanSat\relax }}{20}{figure.caption.32}
+\contentsline {figure}{\numberline {1.20}{\ignorespaces Partially assembled CanSat PCBs\relax }}{21}{figure.caption.34}
+\contentsline {figure}{\numberline {1.21}{\ignorespaces A condensed schematic of the final CanSat\relax }}{22}{figure.caption.35}
+\contentsline {figure}{\numberline {1.22}{\ignorespaces The on-CanSat program structure\relax }}{23}{figure.caption.40}
+\contentsline {figure}{\numberline {1.23}{\ignorespaces The base station program running in test mode\relax }}{24}{figure.caption.43}
+\contentsline {figure}{\numberline {1.24}{\ignorespaces Overall flow for the base station program\relax }}{25}{figure.caption.44}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Loading the prototype CanSat in the helikite\relax }}{28}{figure.caption.45}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Temperature sensors within the prototype CanSat throughout its mission\relax }}{29}{figure.caption.46}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Atmospheric pressure measured by the prototype CanSat throughout its mission\relax }}{30}{figure.caption.47}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Calculated prototype CanSat altitude throughout its drop\relax }}{31}{figure.caption.48}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Acceleration throughout the CanSat descent\relax }}{32}{figure.caption.49}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Measured humidity through prototype CanSat descent\relax }}{33}{figure.caption.50}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces IMU data over the prototype CanSat mission\relax }}{33}{figure.caption.51}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Loading our CanSat into the rocket, in position closest the rocket motor\relax }}{35}{figure.caption.52}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces The launch vehicle's ascent\relax }}{36}{figure.caption.53}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces An image of the CanSat landing site. The team believes that the CanSat is stuck on top of tree cover\relax }}{37}{figure.caption.54}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Downloading data from the CanSat\relax }}{38}{figure.caption.55}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Retrieved humidity data\relax }}{39}{figure.caption.56}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Retrieved temperature data\relax }}{40}{figure.caption.57}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Retrieved pressure data\relax }}{41}{figure.caption.58}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Various CanSat outreach materials\relax }}{45}{figure.caption.59}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Participants in the egg drop workshop\relax }}{45}{figure.caption.60}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The team at Edinburgh Mini Maker Fair 2017\relax }}{46}{figure.caption.61}
+\addvspace {10\p@ }
