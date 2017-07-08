@@ -545,7 +545,7 @@
 	
 	
 	\section{UK Launch Campaign: Data Analysis}
-	After processed and logged data had been recovered via a USB flash drive, it was further processed via Microsoft Excel. A complete dataset, not including thermal camera imagery, can be found at a separate GitHub repository. \textbf{THISNEEDSAFOOTNOTE}
+	After processed and logged data had been recovered via a USB flash drive, it was further processed via Microsoft Excel. A complete dataset, not including thermal camera imagery, can be found at a separate GitHub repository \footnote{github.com/arcturus314/cansat2017\_data}.
 	
 	\subsection{Primary Mission: Temperature and Pressure}
 	
@@ -635,7 +635,9 @@
 	
 	The European competition functioned as a higher level, extended version of the UK competition. After an introductory ceremony on the first day, teams were accompanied to an air field for technical inspection, drop tests, and launches on the second and third day. The technical portion of the competition was followed with presentations and awards on the fourth, final day. 
 	
-	In this final competition, CanSats were dropped via a Quest Intruder model rocket \footnote{http://www.sierrafoxhobbies.com/en/high-power-rockets/484-rocket-kit-intruder-public-missiles-ltd.html}
+	In this final competition, CanSats were dropped via a Quest Intruder model rocket \footnote{http://www.sierrafoxhobbies.com/en/high-power-rockets/484-rocket-kit-intruder-public-missiles-ltd.html}. 
+	
+	All recovered mission data is, as before, available at a team GitHub repository \footnote{github.com/arcturus314/cansat2017\_data}.
 	
 	\subsection{Launch Setup}
 	
@@ -759,7 +761,7 @@
 	\end{equation}
 	
 	\begin{equation} \label{eq7}
-	y = height\times \tan(ytilt\times\sin(heading)+xtilit\times\cos(heading)+p_x\times\sin(heading)+p_y\times\cos(heading))+ypos
+	y = height\times \tan(ytilt\times\sin(heading)+xtilt\times\cos(heading)+p_x\times\sin(heading)+p_y\times\cos(heading))+ypos
 	\end{equation}	
 	
 	Four parameters, $(temperature, x, y, size)$, constructed a single pixel. This data could be graphed on the base station.
@@ -767,7 +769,7 @@
 	Due to differences in data logging and printing schemes, the team believes that the recovered temperature mapping data was from the period of the rocket launch and release. A visualization of this data is seen in figure \ref{tempmap}
 	
 	\begin{figure}[h]
-		\hfill\includegraphics[scale=0.7]{tempmap.png}\hspace*{\fill}
+		\hfill\includegraphics[scale=0.2]{tempmap.png}\hspace*{\fill}
 		\caption{Temperature map buildup over the CanSat ascent and descent}
 		\label{tempmap}
 	\end{figure}
@@ -793,7 +795,7 @@
 	\section{Electrical Design}
 	Moving from our prototype to final CanSat, the team believes that the use of custom-manufactured printed circuit boards were a very positive design decision: they proved to be durable and allowed for higher component density than hand-wired perfboards. However, there is still room for improvement: implementing sensor integrated circuits directly on the PCB, instead of via breakout boards, would allow for even higher component density, providing room for more sensors to be implemented.
 	
-	It would also be worthwhile for the team to include \textbf{the bosch imu, link, FIX}, over raw accelerometers, gyroscopes, and magnetometers as seen in \textbf{adafruit's 9dof, sensor, link here, FIX}. Developing an accurate implementation of the Madgwick positional tracking algorithm proved to be a difficult and time-consuming task for the team, providing little benefit over pre-made solutions.
+	It would also be worthwhile for the team to include an absolute orientation sensor \footnote{https://www.bosch-sensortec.com/bst/products/all\_products/bno055}, over raw accelerometers, gyroscopes, and magnetometers as seen in the Adafruit 9-DOF sensor used in the final CanSat \footnote{https://www.adafruit.com/product/1714}. Developing an accurate implementation of the Madgwick positional tracking algorithm proved to be a difficult and time-consuming task for the team, providing little benefit over pre-made solutions.
 	
 	The team experienced many issues with our GSM modem choice. The SIM800L, while inexpensive, only allowed for 2G network activation. Unfortunately, few cellular networks still support 2G activation, which made emergency GPS fallback impossible in the European competition. This can be fixed by replacing the SIM800L with a module such as the XBEE Cellular NB-IOT \footnote{https://www.digi.com/products/xbee-rf-solutions/embedded-cellular-modems/digi-xbee-cellular-nb-iot} would avoid this issue.
 	
@@ -818,7 +820,7 @@
 	The base station also performed without issue. Aside from the previously mentioned improvement of a higher gain antenna, it would be possible to make some quality-of-life changes with the base station user interface. These include:
 	
 	\begin{enumerate}
-		\item \textbf{Add 3D CanSat orientation visualizer.} This functionality already existed in a separate demo written in Processing \footnote{https://processing.org/}. However, this functionality had never been incorporated ino the base station proper. \\
+		\item \textbf{Add 3D CanSat orientation visualizer.} This functionality already existed in a separate demo written in Processing \footnote{https://processing.org/}. However, this functionality had never been incorporated into the base station proper. \\
 		\item \textbf{Temperature map transparency.} Currently, temperature map data points overwrite any pre-existing pixels in the same location. Adding transparency would allow for easier visualization of average point temperature over multiple readings.
 	\end{enumerate}
 	

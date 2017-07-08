@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.6.15)  7 JUL 2017 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.6.15)  7 JUL 2017 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,22 +433,22 @@ LaTeX Info: Redefining \nameref on input line 19.
 e{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 ...line {3}Module Improvement}{42}{chapter.3}
+l.59 ...line {3}Module Improvement}{43}{chapter.3}
                                                    [1
 
 ])
 \tf@toc=\write4
 \openout4 = `finalCFR.toc'.
 
- [2] (./finalCFR.lof)
+ [2] (./finalCFR.lof
+[3
+
+])
 \tf@lof=\write5
 \openout5 = `finalCFR.lof'.
 
-
-[3
-
-] [4]pdfTeX warning (ext4): destination with the same identifier (name{page.1})
- has been already used, duplicate ignored
+ [4]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) 
+has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.33 	\end{abstract}
@@ -487,7 +487,7 @@ l.52 		\subsection
                   {CanSat and Base Station Architecture} [1
 
 ]
-<Block_Diagram.png, id=390, 1330.9725pt x 660.4675pt>
+<Block_Diagram.png, id=392, 1330.9725pt x 660.4675pt>
 File: Block_Diagram.png Graphic file (type png)
 <use Block_Diagram.png>
 Package pdftex.def Info: Block_Diagram.png  used on input line 56. on input lin
@@ -499,7 +499,7 @@ Overfull \hbox (62.62456pt too wide) in paragraph at lines 56--57
 [] []|  
  []
 
-<Old_CanSat_render.jpg, id=393, 496.10344pt x 812.28468pt>
+<Old_CanSat_render.jpg, id=395, 496.10344pt x 812.28468pt>
 File: Old_CanSat_render.jpg Graphic file (type jpg)
 <use Old_CanSat_render.jpg>
 Package pdftex.def Info: Old_CanSat_render.jpg  used on input line 66. on input
@@ -520,14 +520,14 @@ l.75
                    \relax 
 l.84 
       [3 <./Old_CanSat_render.jpg>]
-<old_int_frame.jpg, id=424, 527.72156pt x 801.74532pt>
+<old_int_frame.jpg, id=426, 527.72156pt x 801.74532pt>
 File: old_int_frame.jpg Graphic file (type jpg)
 <use old_int_frame.jpg>
 Package pdftex.def Info: old_int_frame.jpg  used on input line 94. on input lin
 e 94.
 Package pdftex.def Info: Requested size: 211.08488pt x 320.69244pt on input lin
 e 94.
-<old_frame.jpg, id=426, 2104.86375pt x 1514.65875pt>
+<old_frame.jpg, id=428, 2104.86375pt x 1514.65875pt>
 File: old_frame.jpg Graphic file (type jpg)
 <use old_frame.jpg>
 Package pdftex.def Info: old_frame.jpg  used on input line 107. on input line 1
@@ -538,7 +538,7 @@ e 107.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<cansat-shell.jpg, id=428, 2427.0675pt x 2931.95375pt>
+<cansat-shell.jpg, id=430, 2427.0675pt x 2931.95375pt>
 File: cansat-shell.jpg Graphic file (type jpg)
 <use cansat-shell.jpg>
 Package pdftex.def Info: cansat-shell.jpg  used on input line 117. on input lin
@@ -554,7 +554,7 @@ been already used, duplicate ignored
                    \relax 
 l.126 
        [4 <./old_int_frame.jpg>]
-<old_cansat_side.jpg, id=435, 681.29532pt x 1018.55531pt>
+<old_cansat_side.jpg, id=437, 681.29532pt x 1018.55531pt>
 File: old_cansat_side.jpg Graphic file (type jpg)
 <use old_cansat_side.jpg>
 Package pdftex.def Info: old_cansat_side.jpg  used on input line 128. on input 
@@ -565,7 +565,7 @@ Package pdftex.def Info: Requested size: 272.51329pt x 407.4149pt on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<annotated_cansat.png, id=437, 1003.49907pt x 877.02657pt>
+<annotated_cansat.png, id=439, 1003.49907pt x 877.02657pt>
 File: annotated_cansat.png Graphic file (type png)
 <use annotated_cansat.png>
 Package pdftex.def Info: annotated_cansat.png  used on input line 136. on input
@@ -576,7 +576,7 @@ Package pdftex.def Info: Requested size: 200.69626pt x 175.4022pt on input line
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [5 <./old_frame.jpg>]
-<protoboard.jpg, id=447, 1781.65625pt x 2553.54pt>
+<protoboard.jpg, id=449, 1781.65625pt x 2553.54pt>
 File: protoboard.jpg Graphic file (type jpg)
 <use protoboard.jpg>
 Package pdftex.def Info: protoboard.jpg  used on input line 153. on input line 
@@ -589,7 +589,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6 <./cansat-shell.jpg>] [7 <./old_cansat_side.jpg>] [8 <./annotated_cansat.png
 >]
-<old_gui.jpg, id=482, 895.09406pt x 511.9125pt>
+<old_gui.jpg, id=484, 895.09406pt x 511.9125pt>
 File: old_gui.jpg Graphic file (type jpg)
 <use old_gui.jpg>
 Package pdftex.def Info: old_gui.jpg  used on input line 204. on input line 204
@@ -601,21 +601,21 @@ e 204.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./protoboard.jpg>] [10]
-<CanSat_render.jpg, id=495, 539.76656pt x 812.28468pt>
+<CanSat_render.jpg, id=497, 539.76656pt x 812.28468pt>
 File: CanSat_render.jpg Graphic file (type jpg)
 <use CanSat_render.jpg>
 Package pdftex.def Info: CanSat_render.jpg  used on input line 252. on input li
 ne 252.
 Package pdftex.def Info: Requested size: 187.90271pt x 282.76698pt on input lin
 e 252.
-<new_cansat.jpg, id=496, 1256.695pt x 2366.8425pt>
+<new_cansat.jpg, id=498, 1256.695pt x 2366.8425pt>
 File: new_cansat.jpg Graphic file (type jpg)
 <use new_cansat.jpg>
 Package pdftex.def Info: new_cansat.jpg  used on input line 256. on input line 
 256.
 Package pdftex.def Info: Requested size: 140.92793pt x 265.40959pt on input lin
 e 256.
-<cansat_internal_frame_render.jpg, id=498, 458.46281pt x 810.77907pt>
+<cansat_internal_frame_render.jpg, id=500, 458.46281pt x 810.77907pt>
 File: cansat_internal_frame_render.jpg Graphic file (type jpg)
 <use cansat_internal_frame_render.jpg>
 Package pdftex.def Info: cansat_internal_frame_render.jpg  used on input line 2
@@ -626,7 +626,7 @@ e 277.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Top_frame_render.jpg, id=500, 667.74469pt x 810.77907pt>
+<Top_frame_render.jpg, id=502, 667.74469pt x 810.77907pt>
 File: Top_frame_render.jpg Graphic file (type jpg)
 <use Top_frame_render.jpg>
 Package pdftex.def Info: Top_frame_render.jpg  used on input line 293. on input
@@ -636,7 +636,7 @@ e 293.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Bottom_frame_render.jpg, id=502, 672.26157pt x 810.77907pt>
+<Bottom_frame_render.jpg, id=504, 672.26157pt x 810.77907pt>
 File: Bottom_frame_render.jpg Graphic file (type jpg)
 <use Bottom_frame_render.jpg>
 Package pdftex.def Info: Bottom_frame_render.jpg  used on input line 309. on in
@@ -646,7 +646,7 @@ e 309.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pla_frame.jpg, id=504, 1362.08875pt x 1767.60374pt>
+<pla_frame.jpg, id=506, 1362.08875pt x 1767.60374pt>
 File: pla_frame.jpg Graphic file (type jpg)
 <use pla_frame.jpg>
 Package pdftex.def Info: pla_frame.jpg  used on input line 317. on input line 3
@@ -656,7 +656,7 @@ e 317.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<steel_frame.jpg, id=506, 1815.78375pt x 2153.04375pt>
+<steel_frame.jpg, id=508, 1815.78375pt x 2153.04375pt>
 File: steel_frame.jpg Graphic file (type jpg)
 <use steel_frame.jpg>
 Package pdftex.def Info: steel_frame.jpg  used on input line 326. on input line
@@ -666,7 +666,7 @@ Package pdftex.def Info: Requested size: 272.3558pt x 322.94263pt on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<nylon_frame.jpg, id=508, 1105.12875pt x 1456.44125pt>
+<nylon_frame.jpg, id=510, 1105.12875pt x 1456.44125pt>
 File: nylon_frame.jpg Graphic file (type jpg)
 <use nylon_frame.jpg>
 Package pdftex.def Info: nylon_frame.jpg  used on input line 336. on input line
@@ -677,14 +677,14 @@ e 336.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<rawshell.jpg, id=515, 1667.22874pt x 2028.57875pt>
+<rawshell.jpg, id=517, 1667.22874pt x 2028.57875pt>
 File: rawshell.jpg Graphic file (type jpg)
 <use rawshell.jpg>
 Package pdftex.def Info: rawshell.jpg  used on input line 351. on input line 35
 1.
 Package pdftex.def Info: Requested size: 187.90271pt x 228.62314pt on input lin
 e 351.
-<Mold_render.jpg, id=516, 565.36218pt x 812.28468pt>
+<Mold_render.jpg, id=518, 565.36218pt x 812.28468pt>
 File: Mold_render.jpg Graphic file (type jpg)
 <use Mold_render.jpg>
 Package pdftex.def Info: Mold_render.jpg  used on input line 355. on input line
@@ -694,21 +694,21 @@ e 355.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
-<bareframe.jpg, id=518, 1920.17375pt x 2875.74374pt>
+<bareframe.jpg, id=520, 1920.17375pt x 2875.74374pt>
 File: bareframe.jpg Graphic file (type jpg)
 <use bareframe.jpg>
 Package pdftex.def Info: bareframe.jpg  used on input line 367. on input line 3
 67.
 Package pdftex.def Info: Requested size: 164.41353pt x 246.21213pt on input lin
 e 367.
-<Outer_shell_render.jpg, id=519, 613.54219pt x 812.28468pt>
+<Outer_shell_render.jpg, id=521, 613.54219pt x 812.28468pt>
 File: Outer_shell_render.jpg Graphic file (type jpg)
 <use Outer_shell_render.jpg>
 Package pdftex.def Info: Outer_shell_render.jpg  used on input line 371. on inp
 ut line 371.
 Package pdftex.def Info: Requested size: 187.90271pt x 248.76901pt on input lin
 e 371.
-<electronics_mount_render.jpg, id=521, 706.89093pt x 812.28468pt>
+<electronics_mount_render.jpg, id=523, 706.89093pt x 812.28468pt>
 File: electronics_mount_render.jpg Graphic file (type jpg)
 <use electronics_mount_render.jpg>
 Package pdftex.def Info: electronics_mount_render.jpg  used on input line 383. 
@@ -719,7 +719,7 @@ Package pdftex.def Info: Requested size: 353.4446pt x 406.14134pt on input line
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [12 <./CanSat_render.jpg> <./new_cansat.jpg>]
-<pcbs.jpg, id=529, 4047.12pt x 3035.34pt>
+<pcbs.jpg, id=531, 4047.12pt x 3035.34pt>
 File: pcbs.jpg Graphic file (type jpg)
 <use pcbs.jpg>
 Package pdftex.def Info: pcbs.jpg  used on input line 400. on input line 400.
@@ -729,7 +729,7 @@ e 400.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<CanSat-detail.png, id=532, 636.87938pt x 797.98125pt>
+<CanSat-detail.png, id=534, 636.87938pt x 797.98125pt>
 File: CanSat-detail.png Graphic file (type png)
 <use CanSat-detail.png>
 Package pdftex.def Info: CanSat-detail.png  used on input line 410. on input li
@@ -740,7 +740,7 @@ e 410.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [13 <./cansat_internal_frame_render.jpg>]
-<CanSat-software-diagram.png, id=543, 980.66376pt x 366.36874pt>
+<CanSat-software-diagram.png, id=545, 980.66376pt x 366.36874pt>
 File: CanSat-software-diagram.png Graphic file (type png)
 <use CanSat-software-diagram.png>
 Package pdftex.def Info: CanSat-software-diagram.png  used on input line 438. o
@@ -754,14 +754,14 @@ Overfull \hbox (36.02994pt too wide) in paragraph at lines 438--439
 
 [14 <./Top_frame_render.jpg>] [15 <./Bottom_frame_render.jpg>] [16 <./pla_frame
 .jpg>]
-<base_station.png, id=572, 1177.39874pt x 701.62125pt>
+<base_station.png, id=574, 1177.39874pt x 701.62125pt>
 File: base_station.png Graphic file (type png)
 <use base_station.png>
 Package pdftex.def Info: base_station.png  used on input line 477. on input lin
 e 477.
 Package pdftex.def Info: Requested size: 647.57132pt x 385.89287pt on input lin
 e 477.
-<Base-Station-program-flow.png, id=573, 282.05376pt x 509.905pt>
+<Base-Station-program-flow.png, id=575, 282.05376pt x 509.905pt>
 File: Base-Station-program-flow.png Graphic file (type png)
 <use Base-Station-program-flow.png>
 Package pdftex.def Info: Base-Station-program-flow.png  used on input line 483.
@@ -778,7 +778,7 @@ unt_render.jpg>] [21 <./pcbs.jpg>] [22 <./CanSat-detail.png>] [23 <./CanSat-sof
 tware-diagram.png>] [24 <./base_station.png>] [25 <./Base-Station-program-flow.
 png>]
 Chapter 2.
-<helikite.jpg, id=622, 4047.12pt x 3035.34pt>
+<helikite.jpg, id=624, 4047.12pt x 3035.34pt>
 File: helikite.jpg Graphic file (type jpg)
 <use helikite.jpg>
 Package pdftex.def Info: helikite.jpg  used on input line 526. on input line 52
@@ -791,7 +791,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [26
 
 ] [27] [28 <./helikite.jpg>]
-<temps.png, id=636, 684.30656pt x 496.85625pt>
+<temps.png, id=639, 684.30656pt x 496.85625pt>
 File: temps.png Graphic file (type png)
 <use temps.png>
 Package pdftex.def Info: temps.png  used on input line 553. on input line 553.
@@ -802,7 +802,7 @@ Overfull \hbox (9.2563pt too wide) in paragraph at lines 553--554
 [] []|  
  []
 
-<pressure.png, id=639, 684.30656pt x 496.85625pt>
+<pressure.png, id=642, 684.30656pt x 496.85625pt>
 File: pressure.png Graphic file (type png)
 <use pressure.png>
 Package pdftex.def Info: pressure.png  used on input line 563. on input line 56
@@ -817,7 +817,7 @@ Overfull \hbox (9.2563pt too wide) in paragraph at lines 563--564
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<altitude.png, id=640, 684.30656pt x 496.85625pt>
+<altitude.png, id=643, 684.30656pt x 496.85625pt>
 File: altitude.png Graphic file (type png)
 <use altitude.png>
 Package pdftex.def Info: altitude.png  used on input line 569. on input line 56
@@ -832,7 +832,7 @@ Overfull \hbox (9.2563pt too wide) in paragraph at lines 569--570
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<accel_mag.png, id=641, 684.30656pt x 496.85625pt>
+<accel_mag.png, id=644, 684.30656pt x 496.85625pt>
 File: accel_mag.png Graphic file (type png)
 <use accel_mag.png>
 Package pdftex.def Info: accel_mag.png  used on input line 577. on input line 5
@@ -847,7 +847,10 @@ Overfull \hbox (9.2563pt too wide) in paragraph at lines 577--578
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<humidity.png, id=643, 684.30656pt x 496.85625pt>
+[29
+
+ <./temps.png>]
+<humidity.png, id=654, 684.30656pt x 496.85625pt>
 File: humidity.png Graphic file (type png)
 <use humidity.png>
 Package pdftex.def Info: humidity.png  used on input line 585. on input line 58
@@ -859,19 +862,16 @@ Overfull \hbox (9.2563pt too wide) in paragraph at lines 585--586
 [] []|  
  []
 
-[29
-
- <./temps.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<mag.png, id=652, 684.30656pt x 496.85625pt>
+<mag.png, id=656, 684.30656pt x 496.85625pt>
 File: mag.png Graphic file (type png)
 <use mag.png>
 Package pdftex.def Info: mag.png  used on input line 600. on input line 600.
 Package pdftex.def Info: Requested size: 234.8775pt x 170.53613pt on input line
  600.
-<gyro.png, id=653, 684.30656pt x 496.85625pt>
+<gyro.png, id=657, 684.30656pt x 496.85625pt>
 File: gyro.png Graphic file (type png)
 <use gyro.png>
 Package pdftex.def Info: gyro.png  used on input line 604. on input line 604.
@@ -879,58 +879,58 @@ Package pdftex.def Info: Requested size: 234.8775pt x 170.53613pt on input line
  604.
 [30 <./pressure.png>] [31 <./altitude.png>] [32 <./accel_mag.png>] [33 <./humid
 ity.png> <./mag.png> <./gyro.png>]
-<rocket_load.jpg, id=676, 4047.12pt x 3035.34pt>
+<rocket_load.jpg, id=681, 4047.12pt x 3035.34pt>
 File: rocket_load.jpg Graphic file (type jpg)
 <use rocket_load.jpg>
-Package pdftex.def Info: rocket_load.jpg  used on input line 647. on input line
- 647.
+Package pdftex.def Info: rocket_load.jpg  used on input line 649. on input line
+ 649.
 Package pdftex.def Info: Requested size: 404.73572pt x 303.55179pt on input lin
-e 647.
+e 649.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<rlaunch.png, id=678, 1445.4pt x 2569.6pt>
+<rlaunch.png, id=683, 1445.4pt x 2569.6pt>
 File: rlaunch.png Graphic file (type png)
 <use rlaunch.png>
-Package pdftex.def Info: rlaunch.png  used on input line 658. on input line 658
+Package pdftex.def Info: rlaunch.png  used on input line 660. on input line 660
 .
 Package pdftex.def Info: Requested size: 361.34912pt x 642.39844pt on input lin
-e 658.
+e 660.
 
-LaTeX Warning: Float too large for page by 13.96843pt on input line 661.
+LaTeX Warning: Float too large for page by 13.96843pt on input line 663.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 668--669
+Underfull \hbox (badness 10000) in paragraph at lines 670--671
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 669--670
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
 
  []
 
-<cloc.jpg, id=680, 310.15875pt x 382.42876pt>
+<cloc.jpg, id=685, 310.15875pt x 382.42876pt>
 File: cloc.jpg Graphic file (type jpg)
 <use cloc.jpg>
-Package pdftex.def Info: cloc.jpg  used on input line 680. on input line 680.
+Package pdftex.def Info: cloc.jpg  used on input line 682. on input line 682.
 Package pdftex.def Info: Requested size: 372.18863pt x 458.9122pt on input line
- 680.
+ 682.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<retrieval.jpg, id=681, 4047.12pt x 3035.34pt>
+<retrieval.jpg, id=686, 4047.12pt x 3035.34pt>
 File: retrieval.jpg Graphic file (type jpg)
 <use retrieval.jpg>
-Package pdftex.def Info: retrieval.jpg  used on input line 686. on input line 6
-86.
+Package pdftex.def Info: retrieval.jpg  used on input line 688. on input line 6
+88.
 Package pdftex.def Info: Requested size: 526.14407pt x 394.60805pt on input lin
-e 686.
+e 688.
 
-Overfull \hbox (56.38905pt too wide) in paragraph at lines 686--687
+Overfull \hbox (56.38905pt too wide) in paragraph at lines 688--689
 [] []|  
  []
 
@@ -941,42 +941,42 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ] [35 <./rocket_load.jpg>] [36 <./rlaunch.png>] [37 <./cloc.jpg>] [38 <./retrie
 val.jpg>]
-<hum_fin.png, id=712, 685.8122pt x 498.36188pt>
+<hum_fin.png, id=718, 685.8122pt x 498.36188pt>
 File: hum_fin.png Graphic file (type png)
 <use hum_fin.png>
-Package pdftex.def Info: hum_fin.png  used on input line 705. on input line 705
+Package pdftex.def Info: hum_fin.png  used on input line 707. on input line 707
 .
 Package pdftex.def Info: Requested size: 480.06528pt x 348.85094pt on input lin
-e 705.
+e 707.
 
-Overfull \hbox (10.31026pt too wide) in paragraph at lines 705--706
+Overfull \hbox (10.31026pt too wide) in paragraph at lines 707--708
 [] []|  
  []
 
-<temp_fin.png, id=713, 685.8122pt x 498.36188pt>
+<temp_fin.png, id=719, 685.8122pt x 498.36188pt>
 File: temp_fin.png Graphic file (type png)
 <use temp_fin.png>
-Package pdftex.def Info: temp_fin.png  used on input line 711. on input line 71
-1.
+Package pdftex.def Info: temp_fin.png  used on input line 713. on input line 71
+3.
 Package pdftex.def Info: Requested size: 480.06528pt x 348.85094pt on input lin
-e 711.
+e 713.
 
-Overfull \hbox (10.31026pt too wide) in paragraph at lines 711--712
+Overfull \hbox (10.31026pt too wide) in paragraph at lines 713--714
 [] []|  
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pres_fin.png, id=714, 685.8122pt x 498.36188pt>
+<pres_fin.png, id=720, 685.8122pt x 498.36188pt>
 File: pres_fin.png Graphic file (type png)
 <use pres_fin.png>
-Package pdftex.def Info: pres_fin.png  used on input line 717. on input line 71
-7.
+Package pdftex.def Info: pres_fin.png  used on input line 719. on input line 71
+9.
 Package pdftex.def Info: Requested size: 480.06528pt x 348.85094pt on input lin
-e 717.
+e 719.
 
-Overfull \hbox (10.31026pt too wide) in paragraph at lines 717--718
+Overfull \hbox (10.31026pt too wide) in paragraph at lines 719--720
 [] []|  
  []
 
@@ -985,84 +985,92 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [39
 
- <./hum_fin.png>] [40 <./temp_fin.png>] [41 <./pres_fin.png>]
+ <./hum_fin.png>] [40 <./temp_fin.png>]
+<tempmap.png, id=743, 1005.7575pt x 895.09406pt>
+File: tempmap.png Graphic file (type png)
+<use tempmap.png>
+Package pdftex.def Info: tempmap.png  used on input line 772. on input line 772
+.
+Package pdftex.def Info: Requested size: 201.14793pt x 179.01563pt on input lin
+e 772.
+ [41 <./pres_fin.png>] [42 <./tempmap.png>]
 Chapter 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 790--791
+Underfull \hbox (badness 10000) in paragraph at lines 805--806
 
  []
 
-[42
+[43
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 791--792
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 808--809
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
 
  []
 
-[43]
+[44]
 Chapter 4.
-<website.png, id=769, 313.17pt x 601.24625pt>
+<website.png, id=787, 313.17pt x 601.24625pt>
 File: website.png Graphic file (type png)
 <use website.png>
-Package pdftex.def Info: website.png  used on input line 824. on input line 824
+Package pdftex.def Info: website.png  used on input line 839. on input line 839
 .
 Package pdftex.def Info: Requested size: 140.92793pt x 270.56747pt on input lin
-e 824.
-<brochure.png, id=770, 494.84875pt x 703.62875pt>
+e 839.
+<brochure.png, id=788, 494.84875pt x 703.62875pt>
 File: brochure.png Graphic file (type png)
 <use brochure.png>
-Package pdftex.def Info: brochure.png  used on input line 828. on input line 82
-8.
+Package pdftex.def Info: brochure.png  used on input line 843. on input line 84
+3.
 Package pdftex.def Info: Requested size: 187.90271pt x 267.1777pt on input line
- 828.
-[44
+ 843.
+[45
 
 ]
-<ed1.jpg, id=795, 2055.68pt x 1156.32pt>
+<ed1.jpg, id=813, 2055.68pt x 1156.32pt>
 File: ed1.jpg Graphic file (type jpg)
 <use ed1.jpg>
-Package pdftex.def Info: ed1.jpg  used on input line 846. on input line 846.
+Package pdftex.def Info: ed1.jpg  used on input line 861. on input line 861.
 Package pdftex.def Info: Requested size: 187.90271pt x 105.68755pt on input lin
-e 846.
-<ed2.jpg, id=796, 2055.68pt x 1156.32pt>
+e 861.
+<ed2.jpg, id=814, 2055.68pt x 1156.32pt>
 File: ed2.jpg Graphic file (type jpg)
 <use ed2.jpg>
-Package pdftex.def Info: ed2.jpg  used on input line 850. on input line 850.
+Package pdftex.def Info: ed2.jpg  used on input line 865. on input line 865.
 Package pdftex.def Info: Requested size: 187.90271pt x 105.68755pt on input lin
-e 850.
- [45 <./website.png> <./brochure.png> <./ed1.jpg> <./ed2.jpg>]
-<mfaire.jpg, id=804, 4047.12pt x 3035.34pt>
+e 865.
+ [46 <./website.png> <./brochure.png> <./ed1.jpg> <./ed2.jpg>]
+<mfaire.jpg, id=822, 4047.12pt x 3035.34pt>
 File: mfaire.jpg Graphic file (type jpg)
 <use mfaire.jpg>
-Package pdftex.def Info: mfaire.jpg  used on input line 859. on input line 859.
+Package pdftex.def Info: mfaire.jpg  used on input line 874. on input line 874.
 
 Package pdftex.def Info: Requested size: 404.73572pt x 303.55179pt on input lin
-e 859.
- [46 <./mfaire.jpg>]
+e 874.
+ [47 <./mfaire.jpg>]
 Chapter 5.
-[47
+[48
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 918.
- [48]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 918.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 933.
+ [49]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 933.
  (./finalCFR.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 918.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 918.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 933.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 933.
 Package rerunfilecheck Info: File `finalCFR.out' has not changed.
 (rerunfilecheck)             Checksum: 285BE8E3B3C1EE19F7E2F2F482EC03DF;3476.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 918.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 933.
  ) 
 Here is how much of TeX's memory you used:
- 8121 strings out of 492995
- 121121 string characters out of 6136402
- 219726 words of memory out of 5000000
- 11321 multiletter control sequences out of 15000+600000
+ 8133 strings out of 492995
+ 121276 string characters out of 6136402
+ 219820 words of memory out of 5000000
+ 11326 multiletter control sequences out of 15000+600000
  10698 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,10n,40p,983b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1080,10 +1088,10 @@ fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmti10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/eurosym/f
 eymr10.pfb>
-Output written on finalCFR.pdf (54 pages, 22431668 bytes).
+Output written on finalCFR.pdf (55 pages, 22596940 bytes).
 PDF statistics:
- 920 PDF objects out of 1000 (max. 8388607)
- 786 compressed objects within 8 object streams
- 230 named destinations out of 1000 (max. 500000)
- 644 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 941 PDF objects out of 1000 (max. 8388607)
+ 803 compressed objects within 9 object streams
+ 236 named destinations out of 1000 (max. 500000)
+ 649 words of extra memory for PDF output out of 10000 (max. 10000000)
 
